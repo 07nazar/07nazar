@@ -4,9 +4,7 @@
 
 ### 👨‍💻 About me:
 
-I am a beginner web developer. My path to this started with learning the basics of JavaScript, after that I started
-learning React and deepening my knowledge. At the moment, I continue to take online courses and at the same time I am
-looking for a job!
+I am learning to program with JavaScript, focusing on modern technologies and frameworks. I am deeply fascinated by how systems function under the hood and how different technologies interact with each other. I approach my learning with great enthusiasm and am currently looking for an Ausbildung 2026 to apply my knowledge in a professional environment.
 
 ---
 
